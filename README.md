@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Neelan
+- 👋 Hi, I’m Neelan.
 
-- I’m currently studying electrical engineering and computer science
+- I like playing squash, eating food and sleeping.
+- I’m currently studying electrical engineering and computer science.
 
 
 <!---
