@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Neelan.
 
-- I like playing squash, eating food and sleeping.
-- I’m currently studying electrical engineering and computer science.
-
 
 <!---
 NeelanSatchi/NeelanSatchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
